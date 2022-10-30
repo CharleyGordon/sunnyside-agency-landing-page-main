@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/CharleyGordon/sunnyside-agency-landing-page-main
-- Live Site URL: https://charleygordon.github.io/sunnyside-agency-landing-page-main
+- Solution URL: ![](https://github.com/CharleyGordon/sunnyside-agency-landing-page-main)
+- Live Site URL: ![](https://charleygordon.github.io/sunnyside-agency-landing-page-main)
 
 ## My process
 
